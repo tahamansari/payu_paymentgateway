@@ -33,4 +33,6 @@
 
     <plugin spec="https://github.com/apache/cordova-plugin-file.git#4.1.0" source="git" />
 
+    <plugin spec="https://github.com/apache/cordova-plugin-inappbrowser.git#1.4.0" source="git" />
+
 </widget>
